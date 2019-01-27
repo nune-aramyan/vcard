@@ -15,7 +15,7 @@ main.css
 
 ressponsive.css
 
-hover.css(hovers written in media query to avoid any conflict with touch event on touchscreens)
+hover.css (hovers written in media query to avoid any conflict with touch event on touchscreens)
 
 
 /images
