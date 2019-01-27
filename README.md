@@ -36,7 +36,7 @@ main.js
 
 -icons: fontawesome 5.6.3;
 
--fonts: Base64-encoded fonts;
+-fonts: Base64-encoded fonts
 
 -classes: with BEM methodology
 
