@@ -5,7 +5,7 @@ index.html
 
 /css
 
-reset.css(some reseted styles and global classes)
+reset.css (some reseted styles and global classes)
 
 fontawesome.min.css
 
@@ -15,7 +15,7 @@ main.css
 
 ressponsive.css
 
-hover.css(hovers witten in media query to avoid any conflict with touch event on touchscreens)
+hover.css(hovers written in media query to avoid any conflict with touch event on touchscreens)
 
 
 /images
